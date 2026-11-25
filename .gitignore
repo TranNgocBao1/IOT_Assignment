@@ -1,0 +1,21 @@
+# Bí mật — KHÔNG commit
+firmware/node_m/include/secrets.h
+gateway/.env
+
+# PlatformIO
+.pio/
+.vscode/.browse*
+.vscode/ipch
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dữ liệu sinh ra khi chạy gateway
+gateway/data/
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db

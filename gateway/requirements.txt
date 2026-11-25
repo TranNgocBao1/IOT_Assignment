@@ -1,0 +1,6 @@
+requests>=2.31
+paho-mqtt>=2.0
+python-dotenv>=1.0
+flask>=3.0
+streamlit>=1.30
+pandas>=2.0
